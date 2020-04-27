@@ -5,9 +5,9 @@ This repository contains solutions to Hackerrank practice problems with Java and
 
 
 - Java
-    02. Strings
+    01. Strings
         - Java Strings Introduction | [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Strings%20Introduction.java) | Score: 5
-        
+        - Java Substring | [Problem](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Substring.java) | Score: 5
         
 - SQL
     01. Basic Select
