@@ -1,8 +1,14 @@
-<p align="center"><a href="https://www.hackerrank.com/marinskiy"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
+<p align="center"><a href="https://www.hackerrank.com/KVEKS"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a></p>
 
 # Solutions to Hackerrank practice problems
-This repository contains solutions to Hackerrank practice problems with Oracle SQL.
+This repository contains solutions to Hackerrank practice problems with Java and Oracle SQL.
 
+
+- Java
+    02. Strings
+        - Java Strings Introduction | [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Strings%20Introduction.java) | Score: 5
+        
+        
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
