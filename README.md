@@ -1,2 +1,2 @@
 # HackerrankPractice
-Solutions of tasks from Hackerrank
+Solutions to Hackerrank practice problems with Java and Oracle SQL.
