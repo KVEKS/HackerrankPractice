@@ -26,7 +26,8 @@ This repository contains solutions to Hackerrank practice problems with Oracle S
         - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/019.%20Employee%20Names.sql) | Score: 10
         - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/020.%20Employee%20Salaries.sql) | Score: 10
         
-        02. Advanced Select
+    02. Advanced Select
+        
         - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/001.%20Type%20of%20Triangle.sql) | Score: 20
         - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/002.%20The%20PADS.sql) | Score: 30
         - Occupations  | [Problem](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/003.%20Occupations.sql) | Score : 30
