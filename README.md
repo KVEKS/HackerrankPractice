@@ -8,7 +8,9 @@ This repository contains solutions to Hackerrank practice problems with Java and
     01. Strings
         - Java Strings Introduction | [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Strings%20Introduction.java) | Score: 5
         - Java Substring | [Problem](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Substring.java) | Score: 5
-        - Java String Compare | [Problem](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20String%20Compare.java) | Score: 10 
+        - Java String Compare | [Problem](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20String%20Compare.java) | Score: 10
+        - Java String Reverse | [Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20String%20Reverse.java) | Score: 10
+        
 - SQL
     01. Basic Select
         - Revising the Select Query I | [Problem](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/001.%20Revising%20the%20Select%20Query%20I.sql) | Score: 10
