@@ -33,7 +33,9 @@ This repository contains solutions to Hackerrank practice problems with Java and
         - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/018.%20The%20Hurdle%20Race.py) | Score: 15
 
 - Java
+
     01. Strings
+    
         - Java Strings Introduction | [Problem](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Strings%20Introduction.java) | Score: 5
         - Java Substring | [Problem](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Substring.java) | Score: 5
         - Java String Compare | [Problem](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20String%20Compare.java) | Score: 10
