@@ -5,6 +5,7 @@ This repository contains solutions to Hackerrank practice problems with Java and
 
 
 - Algorithms
+
     01. Warmup
         - Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/001.%20Solve%20Me%20First.py) | Score: 1
         - Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/002.%20Simple%20Array%20Sum.py) | Score: 10
@@ -16,6 +17,7 @@ This repository contains solutions to Hackerrank practice problems with Java and
         - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/008.%20Mini-Max%20Sum.py) | Score: 10
         - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/009.%20Birthday%20Cake%20Candles.py) | Score: 10
         - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/01.%20Warmup/010.%20Time%20Conversion.py) | Score: 15
+        
     02. Implementation
         - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/001.%20Grading%20Students.py) | Score: 10
         - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Algorithms/02.%20Implementation/002.%20Apple%20and%20Orange.py) | Score: 10
@@ -60,8 +62,7 @@ This repository contains solutions to Hackerrank practice problems with Java and
         - Employee Names | [Problem](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/019.%20Employee%20Names.sql) | Score: 10
         - Employee Salaries | [Problem](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/01.%20Basic%20Select/020.%20Employee%20Salaries.sql) | Score: 10
         
-    02. Advanced Select
-        
+    02. Advanced Select        
         - Type of Triangle | [Problem](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/001.%20Type%20of%20Triangle.sql) | Score: 20
         - The PADS | [Problem](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/002.%20The%20PADS.sql) | Score: 30
         - Occupations  | [Problem](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/SQL/02.%20Advanced%20Select/003.%20Occupations.sql) | Score : 30
