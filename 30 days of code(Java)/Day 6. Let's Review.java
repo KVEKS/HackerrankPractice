@@ -19,7 +19,6 @@ public class Solution {
                 }
             }
             System.out.println(left + " " + right);
-        }
-        
+        }        
     }
 }
