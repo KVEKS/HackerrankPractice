@@ -18,7 +18,7 @@ public class Solution {
 
         scanner.close();
 
-        for (int i = 1; i <=10; i++) {
+        for (int i = 1; i <= 10; i++) {
             System.out.println(n + " x " + i + " = " + (n * i));
         }
     }
