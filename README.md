@@ -40,6 +40,7 @@ This repository contains solutions to Hackerrank practice problems with Java and
         - Java Substring | [Problem](https://www.hackerrank.com/challenges/java-substring/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Substring.java) | Score: 5
         - Java String Compare | [Problem](https://www.hackerrank.com/challenges/java-string-compare/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20String%20Compare.java) | Score: 10
         - Java String Reverse | [Problem](https://www.hackerrank.com/challenges/java-string-reverse/problem) | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20String%20Reverse.java) | Score: 10
+        - Java Anagrams |  [Problem](https://www.hackerrank.com/challenges/java-anagrams/problem) | Score: 10 | [Solution](https://github.com/KVEKS/HackerrankPractice/blob/master/Java/Java%20Anagrams.java)
         
 - SQL
     01. Basic Select
