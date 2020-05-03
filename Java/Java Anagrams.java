@@ -7,12 +7,12 @@ public class Solution {
         int c[] = new int[26], d[] = new int[26] ;
         a = a.toUpperCase();
         b = b.toUpperCase();
-        for(int i=0; i<a.length(); i++){
+        for(int i = 0; i < a.length(); i++){
             c[a.charAt(i) - 'A']++;
             d[b.charAt(i) - 'A']++;
         }
-        for(int i =0;i<26; i++)
-            if(c[i] != d[i] ) return false;
+        for(int i = 0; i < 26; i++)
+            if(c[i] != d[i]) return false;
         return true;
     }
 
